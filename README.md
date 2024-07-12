@@ -19,4 +19,4 @@ Se irán adicionando más carpetas como la de Paparazzi con fines de aprendizaje
 Para comenzar a utilizar las herramientas y scripts de este repositorio, clona el repositorio y sigue las instrucciones en la documentación.
 
 ```sh
-git clone https://github.com/tu-usuario/AndroidGuard.git
+git clone https://github.com/JamilSec/AndroidGuard.git
